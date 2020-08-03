@@ -1,5 +1,5 @@
 ### Hi there 👋
-### It's me Manish Sharma  , you can call me (luci)
+### It's me Manish Sharma, aka (lucifer)
 ### I am a 3rd year ECE student , leaning towards DataScience ,hope to have a good time :)
 
 - 🔭 I’m currently working on - OpenCV and NLP
