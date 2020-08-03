@@ -3,7 +3,7 @@
 ### I am a 3rd year ECE student , leaning towards DataScience ,hope to have a good time :)
 
 - 🔭 I’m currently working on - OpenCV and NLP
-- 🌱 I’m currently learning - ECE (3rd year)
+- 🌱 I’m currently learning - OpenCV,CNN,NLP
 - 👯 I’m looking to collaborate on - Deep learning and ML
 - 🤔 I’m looking for help with - NLP and Open CV
 - 💬 Ask me about - Anything ( not my personal life , duhh !! )
