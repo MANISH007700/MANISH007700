@@ -1,16 +1,14 @@
 ### Hi there 👋
+### It's me Manish Sharma  , you can call me (luci)
+### I am a 3rd year ECE student , leaning towards DataScience ,hope to have a good time :)
 
-<!--
-**MANISH007700/MANISH007700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on - OpenCV and NLP
+- 🌱 I’m currently learning - ECE (3rd year)
+- 👯 I’m looking to collaborate on - Deep learning and ML
+- 🤔 I’m looking for help with - NLP and Open CV
+- 💬 Ask me about - Anything ( not my personal life , duhh !! )
+- 📫 How to reach me: - [linkedin](https://www.linkedin.com/in/manish-sharma-355ba3189/)
+                         [Email](monalmonal007@gmail.com)
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I am a Fun loving Guy, and hurraay , you know me Half-Little !
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
