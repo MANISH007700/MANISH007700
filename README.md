@@ -10,5 +10,5 @@
 - 📫 How to reach me: - [linkedin](https://www.linkedin.com/in/manish-sharma-355ba3189/) , 
                          [Email](monalmonal007@gmail.com)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I am a Fun loving Guy, and hurraay , you know me Half-Little !
+- ⚡ Fun fact: I am a Fun loving Guy, and hurraay , you know me a Little-Half !
 
