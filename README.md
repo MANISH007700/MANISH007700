@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### It's me Manish Sharma, aka (Lucifer)
-### I am a 3rd year ECE student , Fascinated towards DataScience ,hope to have a good time :)
+### I am a 3rd year ECE student , Fascinated towards DataScience ,hope to have a good time :')
 
 - 🔭 I’m currently working on - CNN and NLP
 - 🌱 I’m currently learning - RNN
