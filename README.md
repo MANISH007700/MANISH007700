@@ -31,7 +31,7 @@
 -->
 
 <BR>
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true)
 <!--🌟 From [Manish Sharma](https://github.com/MANISH007700)-->
