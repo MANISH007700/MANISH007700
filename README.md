@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Manish Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### I am a 3rd year ECE student , Fascinated towards DataScience ,hope to have a good time :')
+### I am a 3rd year Electronic student, fascinated towards DataScience, hope to have a good time :')
 
 - 🔭 I’m currently working on - CNN and NLP
 - 🌱 I’m currently learning - RNN
