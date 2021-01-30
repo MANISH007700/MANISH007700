@@ -42,9 +42,9 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true)
 
 <p align="center">
-<a href="https://github.com/swapnanildutta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Swapnanil's github stats"/>
+<a href="https://github.com/MANISH007700">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH007700&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="MANISH007700's github stats"/>
 </a></p>
 <br>
 
