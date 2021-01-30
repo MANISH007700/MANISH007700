@@ -40,6 +40,14 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true)
+
+<p align="center">
+<a href="https://github.com/swapnanildutta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnanildutta&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnanildutta&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="Swapnanil's github stats"/>
+</a></p>
+<br>
+
 <!--🌟 From [Manish Sharma](https://github.com/MANISH007700)-->
 [linkedin]: https://www.linkedin.com/in/manish-sharma-355ba3189/
 [Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=monalmonal007@gmail.com.com&su=SUBJECT&body=BODY&tf=1
