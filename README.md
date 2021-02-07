@@ -39,7 +39,7 @@
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![github stats](https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true)
+
 
 <p align="center">
 <a href="https://github.com/MANISH007700">
