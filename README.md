@@ -18,7 +18,8 @@
 [<img align="left" alt="Manish Sharma | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Manish Sharma | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
 [<img align="left" alt="Manish Sharma | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="Manish Sharma | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter-new.png" />][Twitter]
+
+
 
 
 
@@ -58,4 +59,4 @@
 [linkedin]: https://www.linkedin.com/in/manish-sharma-355ba3189/
 [Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=monalmonal007@gmail.com.com&su=SUBJECT&body=BODY&tf=1
 [Instagram]: https://www.instagram.com/lucifer_x007/
-[Twitter]: https://www.twitter.com/lucifer_x007/
+
