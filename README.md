@@ -18,6 +18,8 @@
 [<img align="left" alt="Manish Sharma | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Manish Sharma | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
 [<img align="left" alt="Manish Sharma | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="Manish Sharma | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter-new.png" />][Twitter]
+
 <br />
 <!--### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
