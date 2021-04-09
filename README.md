@@ -44,15 +44,6 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-<p align="center">
-<a href="https://github.com/MANISH007700">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH007700&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="MANISH007700's github stats"/>
-</a></p>
-<br>
-
-
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
@@ -69,6 +60,15 @@
 ![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&logo=Transformers&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-HuggingFace-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+
+<p align="center">
+<a href="https://github.com/MANISH007700">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH007700&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="MANISH007700's github stats"/>
+</a></p>
+<br>
+
 
 
 
