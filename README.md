@@ -67,7 +67,7 @@
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Spacy-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Hugging Face-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-HuggingFace-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
 
 
 
