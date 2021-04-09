@@ -3,13 +3,12 @@
 
 ### I am a 3rd year Electronic student, fascinated towards DataScience, hope to have a good time :')
 
-- 🔭 I’m currently working on - CNN and NLP
-- 🌱 I’m currently learning - RNN
-- 👯 I’m looking to collaborate on - Deep learning and ML
-- 🤔 I’m looking for help with - NLP and Open CV
-- 💬 Ask me about - Anything ( not my personal life , duhh !! )
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I am a Fun loving Guy, and hurraay , you know me a Little-Half !
+- 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
+- 🌱 I’m currently learning - Object Detection using TF2 🤡
+- 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
+- 🤔 I’m looking for help with - Nothing at the moment 😄
+- 💬 Ask me about - Anything 🤫
+- ⚡ Fun fact: I love Masala Dhosa 🥘 and Calistheics 🏃
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
