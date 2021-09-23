@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
 - 🌱 I’m currently learning - Object Detection using TF2 🤡
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
-- 🤔 I’m looking for help with - Nothing at the moment 😄
+- 🤔 I’m looking for Intern or Intern + FTE Role 😄
 - 💬 Ask me about - Anything 🤫
 - ⚡ Fun fact: I love Masala Dhosa 🥘 and Calistheics 🏃
 
