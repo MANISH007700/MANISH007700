@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Manish Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 𝓘 𝓪𝓶 𝓪 3𝓻𝓭 𝔂𝓮𝓪𝓻 𝓔𝓵𝓮𝓬𝓽𝓻𝓸𝓷𝓲𝓬 𝓼𝓽𝓾𝓭𝓮𝓷𝓽, 𝓯𝓪𝓼𝓬𝓲𝓷𝓪𝓽𝓮𝓭 𝓽𝓸𝔀𝓪𝓻𝓭𝓼 𝓓𝓪𝓽𝓪𝓢𝓬𝓲𝓮𝓷𝓬𝓮, 𝓐𝓘 𝓪𝓷𝓭 𝓜𝓛 ❤️
+### I am a Final Year ECE Student, who loves DataScience and AI ❤️
 
 - 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
 - 🌱 I’m currently learning - Object Detection using TF2 🤡
