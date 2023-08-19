@@ -3,10 +3,8 @@
 
 ### I work as a Machine Learning Engineer @ Zealth-Ai ❤️
 
-- 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
-- 🌱 I’m currently learning - Object Detection using TF2 🤡
+- 🔭 I’m currently working on - GenAI, RAG, RAGAS 🤓
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
-- 🤔 I’m looking for Intern or Intern + FTE Role 😄
 - 💬 Ask me about - Anything 🤫
 - ⚡ Fun fact: I love Masala Dhosa 🥘 and Calistheics 🏃
 
