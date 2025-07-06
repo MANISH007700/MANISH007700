@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on - GenAI, RAG, RAGAS 🤓
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
 - 💬 Ask me about - Anything 🤫
-- ⚡ Fun fact: I love Masala Dhosa 🥘 and Calistheics 🏃
+- ⚡ Fun fact: I love Masala Dosa 🥘 and Calisthenics 🏃
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
