@@ -26,10 +26,8 @@
 ---
 
 <p align="center">
-<a href="https://github.com/MANISH007700">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MANISH007700&theme=github_dark" alt="MANISH007700's github stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MANISH007700&theme=github_dark" alt="MANISH007700's top languages" />
-</a>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MANISH007700&theme=github_dark" alt="MANISH007700's github stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MANISH007700&theme=github_dark" alt="MANISH007700's top languages" />
 <br>
 <img src="https://streak-stats.demolab.com?user=MANISH007700&theme=github-dark-blue&hide_border=true&disable_animations=true" alt="MANISH007700's GitHub streak" />
 </p>
