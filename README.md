@@ -7,7 +7,7 @@
 - 🏗️ Currently: **Lead AI Engineer - GenAI** @ [UsefulBI](https://usefulbi.com/) (multi-agent platform on AWS + Strands)
 - 🧠 Past: ML @ [Parspec](https://www.parspec.io/) (fine-tuned Llama 3.3 70B on H100s, multimodal RAG), [Docsumo](https://www.docsumo.com/) (LayoutLM doc extraction), [Zealth (YC 21)](https://www.ycombinator.com/companies/zealth) (medical knowledge graphs)
 - 🎓 Past research @ **IISc Bangalore**
-- 🛠️ Recent builds: [tab-bouncer](https://github.com/MANISH007700/tab-bouncer), [VideoRAG](https://github.com/MANISH007700/VideoRAG-System)
+- 🛠️ Recent builds: [mini-coding-harness](https://github.com/MANISH007700/mini-coding-harness), [OpenMemoryUI](https://github.com/MANISH007700/OpenMemoryUI), [OpenMCPUI](https://github.com/MANISH007700/OpenMCPUI), [tab-bouncer](https://github.com/MANISH007700/tab-bouncer)
 - 👯 Looking to collaborate on - post-training, evals, agents, research papers
 - ⚡ Life maxxing: Masala Dosa 🥘 and Calisthenics 🏃
 
