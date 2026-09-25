@@ -27,9 +27,12 @@
 
 <p align="center">
 <a href="https://github.com/MANISH007700">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH007700&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="MANISH007700's github stats"/>
-</a></p>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MANISH007700&theme=github_dark" alt="MANISH007700's github stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MANISH007700&theme=github_dark" alt="MANISH007700's top languages" />
+</a>
+<br>
+<img src="https://streak-stats.demolab.com?user=MANISH007700&theme=github-dark-blue&hide_border=true" alt="MANISH007700's GitHub streak" />
+</p>
 <br>
 
 [linkedin]: https://www.linkedin.com/in/manish-sharma-355ba3189/
