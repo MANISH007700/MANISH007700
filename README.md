@@ -1,15 +1,15 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Manish Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### I work as a Machine Learning Engineer - 2 @ [Parspec-AI](https://www.parspec.io/)  ❤️
+### Post-training & evals 🧪 | Founding engineer @ 2 YC startups + 1 Series A 🚀
 
-- 🔭 I’m currently working on - GenAI, RAG, RAGAS 🤓
-- 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
-- 💬 Ask me about - Anything 🤫
-- ⚡ Fun fact: I love Masala Dosa 🥘 and Calisthenics 🏃
-
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+- 🔭 Building in **evals and agent harnesses** - multi-agent orchestration, LLM-as-judge, eval pipelines
+- 🏗️ Currently: **Lead AI Engineer - GenAI** @ [UsefulBI](https://usefulbi.com/) (multi-agent platform on AWS + Strands)
+- 🧠 Past: ML @ [Parspec](https://www.parspec.io/) (fine-tuned Llama 3.3 70B on H100s, multimodal RAG), [Docsumo](https://www.docsumo.com/) (LayoutLM doc extraction), [Zealth (YC 21)](https://www.ycombinator.com/companies/zealth) (medical knowledge graphs)
+- 🎓 Past research @ **IISc Bangalore**
+- 🛠️ Recent builds: [tab-bouncer](https://github.com/MANISH007700/tab-bouncer), [VideoRAG](https://github.com/MANISH007700/VideoRAG-System)
+- 👯 Looking to collaborate on - post-training, evals, agents, research papers
+- ⚡ Life maxxing: Masala Dosa 🥘 and Calisthenics 🏃
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Wanna connect ? hmu 😊 </b> </em>
 
@@ -18,12 +18,12 @@
 [<img align="left" alt="Manish Sharma | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][Twitter]
 
 <BR>
-  
+
 <p>
     <img class="center" alt="Manish Sharma's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=MANISH007700.MANISH007700"/>
 </p>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <p align="center">
 <a href="https://github.com/MANISH007700">
@@ -32,8 +32,6 @@
 </a></p>
 <br>
 
-<!--🌟 From [Manish Sharma](https://github.com/MANISH007700)-->
 [linkedin]: https://www.linkedin.com/in/manish-sharma-355ba3189/
-[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=monalmonal007@gmail.com.com&su=SUBJECT&body=BODY&tf=1
+[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=monalmonal007@gmail.com&su=SUBJECT&body=BODY&tf=1
 [Twitter]: https://www.twitter.com/lucifer_x007/
-
