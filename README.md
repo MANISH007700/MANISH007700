@@ -7,7 +7,7 @@
 - 🏗️ Currently: **Lead AI Engineer - GenAI** @ [UsefulBI](https://usefulbi.com/) (multi-agent platform on AWS + Strands)
 - 🧠 Past: ML @ [Parspec](https://www.parspec.io/) (fine-tuned Llama 3.3 70B on H100s, multimodal RAG), [Docsumo](https://www.docsumo.com/) (LayoutLM doc extraction), [Zealth (YC 21)](https://www.ycombinator.com/companies/zealth) (medical knowledge graphs)
 - 🎓 Past research @ **IISc Bangalore**
-- 🛠️ Recent builds: [manish-code](https://github.com/MANISH007700/mini-coding-harness), [OpenMemoryUI](https://github.com/MANISH007700/OpenMemoryUI), [OpenMCPUI](https://github.com/MANISH007700/OpenMCPUI), [tab-bouncer](https://github.com/MANISH007700/tab-bouncer)
+- 🛠️ Recent builds: [Notch Island](https://github.com/MANISH007700/notch-island) (a Dynamic Island for coding agents), [manish-code](https://github.com/MANISH007700/mini-coding-harness), [OpenMemoryUI](https://github.com/MANISH007700/OpenMemoryUI), [OpenMCPUI](https://github.com/MANISH007700/OpenMCPUI), [tab-bouncer](https://github.com/MANISH007700/tab-bouncer)
 - 🌐 Portfolio: [manishluci.com](https://manishluci.com)
 - 👯 Looking to collaborate on - post-training, evals, agents, research papers
 - ⚡ Life maxxing: Masala Dosa 🥘 and Calisthenics 🏃
@@ -34,6 +34,6 @@
 </p>
 <br>
 
-[linkedin]: https://www.linkedin.com/in/manish-sharma-355ba3189/
+[linkedin]: https://www.linkedin.com/in/manish-sharma-%F0%9F%93%8A-355ba3189/
 [Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=monalmonal007@gmail.com&su=SUBJECT&body=BODY&tf=1
 [Twitter]: https://www.twitter.com/lucifer_x007/
